@@ -1,2 +1,3 @@
-# nlp-emotion-classification
-emotion classification
+# Natural Language Processing: Emotion Prediction 
+
+Predict emotion by text 
